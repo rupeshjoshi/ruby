@@ -6,4 +6,6 @@ def sample (*test)
   end
  sample "sara","20","F"
  sample "jon","35","M","MBA"
- sample      
+ sample
+
+     
