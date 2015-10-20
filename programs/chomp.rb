@@ -1,0 +1,7 @@
+puts" #{"hello".chomp}"           
+puts"#{"hello\n".chomp}"         
+puts "#{"hello\r\n".chomp}"       
+puts "#{"hello\n\r".chomp}"       
+puts "#{"hello\r".chomp}"         
+puts "#{"hello \n there".chomp}"  
+puts "#{"hello".chomp("llo")}"    

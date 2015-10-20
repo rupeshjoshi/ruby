@@ -1,0 +1,3 @@
+"hello".capitalize
+puts "hiiii"
+

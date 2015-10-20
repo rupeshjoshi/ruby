@@ -1,0 +1,16 @@
+class A
+        def method 
+               puts "hello this is class A"
+end
+class B 
+      def mtd 
+          puts "hi this is class B"
+end
+
+ obj1=class A.new
+ obj2=class B.new
+ obj1.method
+# "hloo world"<<obj1
+obj1.method
+
+
