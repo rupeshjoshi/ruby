@@ -1,0 +1,1 @@
+puts"#{"hello".eql?"hello"}"
