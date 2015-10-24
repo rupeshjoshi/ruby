@@ -6,8 +6,7 @@ rescue
 puts "first Exception"  
 puts  y   
 
-b=8
-z=b/0
+z=y/0
 
 rescue 
 puts "Second Exception"  
